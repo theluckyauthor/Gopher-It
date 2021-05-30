@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func gopher() {
 	fmt.Println("    `.-::::::-.`    ")
 	fmt.Println(".:-::::::::::::::-:.")
 	fmt.Println("`_:::    ::    :::_`")
